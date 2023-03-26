@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Nick, and I am a computer science student with a passion for web development and software engineering. With a strong foundation in programming concepts and a desire to continuously learn and improve, I am eager to explore the many facets of the tech industry.
+
+As a web developer, I enjoy bringing creative ideas to life by building dynamic and interactive websites that engage users and deliver an exceptional user experience. My experience in front-end technologies such as HTML, CSS, JavaScript, and Node.js has allowed me to create responsive and visually appealing web pages that effectively communicate a brand's message.
+
+In addition to web development, I am also interested in other areas of computer science, such as software engineering and developmen, machine learning, and artificial intelligence. My goal is to become a versatile developer with a diverse skillset, ready to tackle any challenge that comes my way.
+
+I am always seeking opportunities to work on exciting projects and collaborate with like-minded individuals in the tech industry. Please feel free to reach out to me through my website or LinkedIn profile to discuss potential opportunities or to simply connect and share ideas.
